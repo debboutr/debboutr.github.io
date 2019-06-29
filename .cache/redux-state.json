@@ -1,0 +1,3794 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/home/debboutr/projects/debboutr.github.io/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5554c863a39629a4874bb8de3c1e462c",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b7d662995bcc26e1627608501c875f62",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a481398cb086f3e90c6b0a5395e2a1c9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "cf03868db7184dd900ff6f1b54797d2a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "48e8dd95c9d9bb1249e36ab02ac732c6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e00e2616c12d84137753eae12540e2a6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "06319fc618dbbaaae6bdafefd05ebee4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3c37ae5e4d353819dfa4de6c3fe2679c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "ca2c6d45-3cbb-5520-81b0-744c9701d15c": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-catch-links",
+      "id": "ca2c6d45-3cbb-5520-81b0-744c9701d15c",
+      "name": "gatsby-plugin-catch-links",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-catch-links",
+      "packageJson": {
+        "name": "gatsby-plugin-catch-links",
+        "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "escape-string-regexp",
+            "version": "^1.0.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b3954178d48e5b8890f4fb97e5900d53",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.13",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.13",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "88baac0b4c9b5eeff99c1909a40cf647",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "953fe8fe-5d5b-586b-934c-eefd611dab26": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-remark-images",
+      "id": "953fe8fe-5d5b-586b-934c-eefd611dab26",
+      "name": "gatsby-remark-images",
+      "version": "3.0.3",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 750,
+        "quality": 90,
+        "linkImagesToOriginal": true,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "showCaptions": false,
+        "pathPrefix": "",
+        "withWebp": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "3.0.3",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-definitions",
+            "version": "^1.2.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit-parents",
+            "version": "^2.0.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.5"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "5d0b450c94d03e69b46d7e03564006a3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "b8d3a2f5-5540-5699-b862-153e57b2c618": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-remark-prismjs",
+      "id": "b8d3a2f5-5540-5699-b862-153e57b2c618",
+      "name": "gatsby-remark-prismjs",
+      "version": "3.2.4",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "3.2.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "^0.0.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "dc52fe0212f690fa90d474127c813122",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "5a11e103-53f8-5840-bc89-09bae00ae396": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-typography",
+      "id": "5a11e103-53f8-5840-bc89-09bae00ae396",
+      "name": "gatsby-plugin-typography",
+      "version": "2.2.7",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "config/typography.js"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "2.2.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.18"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.18"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1 || ^1.0.0-alpha.0"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0 || ^1.0.0-alpha.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b427aa7e10ae811cc0601ecb7c0b914c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.20",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreInit"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.20",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "f1dd479e7180ca53d3038b9ff53d011d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9ccc7860-87fc-53f6-a439-0a4dc02836bd": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-sitemap",
+      "id": "9ccc7860-87fc-53f6-a439-0a4dc02836bd",
+      "name": "gatsby-plugin-sitemap",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-sitemap",
+      "packageJson": {
+        "name": "gatsby-plugin-sitemap",
+        "description": "Gatsby plugin that automatically creates a sitemap for your site",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "minimatch",
+            "version": "^3.0.4"
+          },
+          {
+            "name": "pify",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sitemap",
+            "version": "^1.12.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "50e449ccfee6621d4cab5f1f70696a34",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "150e19a8-6e36-5ed8-8c9c-758395d48061": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-manifest",
+      "id": "150e19a8-6e36-5ed8-8c9c-758395d48061",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.17",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "Gatsby Tutorial Starter",
+        "short_name": "GatsbyTut",
+        "description": "A Gatsby V2 Starter Template Built with a Step By Step Guide",
+        "start_url": "/",
+        "background_color": "#d3e0ff",
+        "theme_color": "#3e7bf2",
+        "display": "standalone",
+        "icon": "static/logo/favicon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.17",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a24eda72fa419f2cfb1d9543df46bde4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-offline",
+      "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "name": "gatsby-plugin-offline",
+      "version": "2.0.22",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker",
+        "onServiceWorkerActive",
+        "onPostPrefetchPathname"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "2.0.22",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "cpx",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "idb-keyval",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "workbox-build",
+            "version": "^3.6.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.100"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9250933532a414a87ea5683c57ab3ff9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "84fcd54d84ffcb3239a0f8baecfe3cbd",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io",
+      "packageJson": {
+        "name": "gatsby-tutorial-starter",
+        "description": "My Blog",
+        "version": "0.0.7",
+        "keywords": [
+          "justin formentin",
+          "personal blog",
+          "tutorial",
+          "gatsby",
+          "emotion"
+        ],
+        "author": "Justin Formentin",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/core",
+            "version": "^7.2.2"
+          },
+          {
+            "name": "babel-plugin-emotion",
+            "version": "^10.0.6"
+          },
+          {
+            "name": "@emotion/core",
+            "version": "^10.0.6"
+          },
+          {
+            "name": "@emotion/styled",
+            "version": "^10.0.6"
+          },
+          {
+            "name": "emotion-theming",
+            "version": "^10.0.6"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.91"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.26"
+          },
+          {
+            "name": "gatsby-plugin-catch-links",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-plugin-emotion",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.13"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.21"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.5"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.17"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "^2.0.4"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^2.2.5"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.13"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.10"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.2"
+          },
+          {
+            "name": "react",
+            "version": "^16.7.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.7.0"
+          },
+          {
+            "name": "react-headroom",
+            "version": "^2.2.4"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.18"
+          },
+          {
+            "name": "typeface-candal",
+            "version": "0.0.54"
+          },
+          {
+            "name": "typeface-open-sans",
+            "version": "0.0.54"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.18"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-eslint",
+            "version": "^10.0.1"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.12.0"
+          },
+          {
+            "name": "eslint-config-prettier",
+            "version": "^3.3.0"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.14.0"
+          },
+          {
+            "name": "eslint-plugin-jsx-a11y",
+            "version": "^6.1.2"
+          },
+          {
+            "name": "eslint-plugin-prettier",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.12.3"
+          },
+          {
+            "name": "gh-pages",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "lighthouse",
+            "version": "^3.2.1"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.15.3"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "dfa407db3dc7d06160507e47b0b87596",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "pathPrefix": "/",
+        "title": "Gatsby Tutorial Starter",
+        "titleAlt": "Gatsby Tutorial Starter",
+        "description": "A Gatsby V2 Starter Template Built with a Step By Step Guide",
+        "url": "https://gatsby-tutorial-starter.netlify.com",
+        "siteUrl": "https://gatsby-tutorial-starter.netlify.com",
+        "siteLanguage": "en",
+        "logo": "static/logo/logo.png",
+        "banner": "static/logo/banner.png",
+        "favicon": "static/logo/favicon.png",
+        "shortName": "GatsbyTut",
+        "author": "Justin",
+        "themeColor": "#3e7bf2",
+        "backgroundColor": "#d3e0ff",
+        "twitter": "@justinformentin"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-06-29T17:30:58.793Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3239868c3ed5a3bd3ea305b78b0f3903",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1044724c-b17a-5c10-8747-54a761a8b759": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-source-filesystem",
+      "id": "1044724c-b17a-5c10-8747-54a761a8b759",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.20",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "posts",
+        "path": "/home/debboutr/projects/debboutr.github.io/content/posts"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.20",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "c928cc957a9bad42c68bc1da0df87b28",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da58acf9-10b1-5eb3-b669-588d0335c27b": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-transformer-remark",
+      "id": "da58acf9-10b1-5eb3-b669-588d0335c27b",
+      "name": "gatsby-transformer-remark",
+      "version": "2.2.4",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-remark-images",
+            "id": "953fe8fe-5d5b-586b-934c-eefd611dab26",
+            "name": "gatsby-remark-images",
+            "version": "3.0.3",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 750,
+              "quality": 90,
+              "linkImagesToOriginal": true,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "showCaptions": false,
+              "pathPrefix": "",
+              "withWebp": false
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [
+              "onRouteUpdate"
+            ],
+            "ssrAPIs": [],
+            "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-remark-prismjs",
+            "id": "b8d3a2f5-5540-5699-b862-153e57b2c618",
+            "name": "gatsby-remark-prismjs",
+            "version": "3.2.4",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-remark-prismjs"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.2.4",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.5"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.88"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "21ff1bfee6b1c41a1ffc67e0aa531bef",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9a408821-83b6-57d5-8565-c841ffc40dc5": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-emotion",
+      "id": "9a408821-83b6-57d5-8565-c841ffc40dc5",
+      "name": "gatsby-plugin-emotion",
+      "version": "4.0.3",
+      "pluginOptions": {
+        "plugins": [],
+        "autoLabel": true,
+        "labelFormat": "[filename]--[local]"
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-emotion",
+      "packageJson": {
+        "name": "gatsby-plugin-emotion",
+        "description": "Gatsby plugin to add support for Emotion",
+        "version": "4.0.3",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "emotion",
+          "css-in-js"
+        ],
+        "author": {
+          "name": "Tegan Churchill",
+          "email": "churchill.tegan@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@emotion/babel-preset-css-prop",
+            "version": "10.0.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "@emotion/core",
+            "version": "^10.0.5"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "c9d3ca3d0248dc0b9dac9c4dd6346202",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9": {
+      "resolve": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-page-creator",
+      "id": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/home/debboutr/projects/debboutr.github.io/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/debboutr/projects/debboutr.github.io/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "50f099c987a45de2c5ce47c6f632ded1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d0cba44d-3153-5137-a98f-8738ba7e4b7b": {
+      "id": "d0cba44d-3153-5137-a98f-8738ba7e4b7b",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "16756de38364fa273dc9cf6a4a494ae4",
+        "type": "Directory",
+        "description": "Directory \"content/posts\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts",
+      "relativePath": "",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-06-29T16:06:45.610Z",
+      "accessTime": "2019-06-29T17:31:01.591Z",
+      "changeTime": "2019-06-29T16:06:45.610Z",
+      "birthTime": "2019-06-29T16:06:45.610Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content",
+      "base": "posts",
+      "ext": "",
+      "name": "posts",
+      "relativeDirectory": "..",
+      "dev": 2051,
+      "mode": 16893,
+      "nlink": 8,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5202744,
+      "blocks": 8,
+      "atimeMs": 1561829461590.96,
+      "mtimeMs": 1561824405610.0493,
+      "ctimeMs": 1561824405610.0493,
+      "birthtimeMs": 1561824405610.0493,
+      "atime": "2019-06-29T17:31:01.591Z",
+      "mtime": "2019-06-29T16:06:45.610Z",
+      "ctime": "2019-06-29T16:06:45.610Z",
+      "birthtime": "2019-06-29T16:06:45.610Z"
+    },
+    "d223587b-64bd-563a-b5ee-cf99af307e6f": {
+      "id": "d223587b-64bd-563a-b5ee-cf99af307e6f",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "0c84c9bf32341236d5354f4ecddd3ae1",
+        "type": "Directory",
+        "description": "Directory \"content/posts/2018-10-15\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-15",
+      "relativePath": "2018-10-15",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-06-29T16:06:45.606Z",
+      "accessTime": "2019-06-29T17:31:01.595Z",
+      "changeTime": "2019-06-29T16:06:45.606Z",
+      "birthTime": "2019-06-29T16:06:45.606Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts",
+      "base": "2018-10-15",
+      "ext": "",
+      "name": "2018-10-15",
+      "relativeDirectory": "",
+      "dev": 2051,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5275969,
+      "blocks": 8,
+      "atimeMs": 1561829461594.9597,
+      "mtimeMs": 1561824405606.0493,
+      "ctimeMs": 1561824405606.0493,
+      "birthtimeMs": 1561824405606.0493,
+      "atime": "2019-06-29T17:31:01.595Z",
+      "mtime": "2019-06-29T16:06:45.606Z",
+      "ctime": "2019-06-29T16:06:45.606Z",
+      "birthtime": "2019-06-29T16:06:45.606Z"
+    },
+    "2bc0f805-aaf3-5095-b36e-d87a70a15adb": {
+      "id": "2bc0f805-aaf3-5095-b36e-d87a70a15adb",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "eba0726a716a7da6125610bd91d89df5",
+        "type": "Directory",
+        "description": "Directory \"content/posts/2018-10-16\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-16",
+      "relativePath": "2018-10-16",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-06-29T16:06:45.606Z",
+      "accessTime": "2019-06-29T17:31:01.595Z",
+      "changeTime": "2019-06-29T16:06:45.606Z",
+      "birthTime": "2019-06-29T16:06:45.606Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts",
+      "base": "2018-10-16",
+      "ext": "",
+      "name": "2018-10-16",
+      "relativeDirectory": "",
+      "dev": 2051,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5202756,
+      "blocks": 8,
+      "atimeMs": 1561829461594.9597,
+      "mtimeMs": 1561824405606.0493,
+      "ctimeMs": 1561824405606.0493,
+      "birthtimeMs": 1561824405606.0493,
+      "atime": "2019-06-29T17:31:01.595Z",
+      "mtime": "2019-06-29T16:06:45.606Z",
+      "ctime": "2019-06-29T16:06:45.606Z",
+      "birthtime": "2019-06-29T16:06:45.606Z"
+    },
+    "d1beb925-db83-5c1d-8233-ebfed368a52c": {
+      "id": "d1beb925-db83-5c1d-8233-ebfed368a52c",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "3cb854a929adf0f4b9dcca39af1b2ce5",
+        "type": "Directory",
+        "description": "Directory \"content/posts/2018-10-17\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-17",
+      "relativePath": "2018-10-17",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-06-29T16:06:45.610Z",
+      "accessTime": "2019-06-29T17:31:01.595Z",
+      "changeTime": "2019-06-29T16:06:45.610Z",
+      "birthTime": "2019-06-29T16:06:45.610Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts",
+      "base": "2018-10-17",
+      "ext": "",
+      "name": "2018-10-17",
+      "relativeDirectory": "",
+      "dev": 2051,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5275970,
+      "blocks": 8,
+      "atimeMs": 1561829461594.9597,
+      "mtimeMs": 1561824405610.0493,
+      "ctimeMs": 1561824405610.0493,
+      "birthtimeMs": 1561824405610.0493,
+      "atime": "2019-06-29T17:31:01.595Z",
+      "mtime": "2019-06-29T16:06:45.610Z",
+      "ctime": "2019-06-29T16:06:45.610Z",
+      "birthtime": "2019-06-29T16:06:45.610Z"
+    },
+    "7846b08f-c609-548b-a6ca-f2aed88bbc7f": {
+      "id": "7846b08f-c609-548b-a6ca-f2aed88bbc7f",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "0cee729778d91339ca6ffff444e03f68",
+        "type": "Directory",
+        "description": "Directory \"content/posts/2018-10-18\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-18",
+      "relativePath": "2018-10-18",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-06-29T16:06:45.610Z",
+      "accessTime": "2019-06-29T17:31:01.595Z",
+      "changeTime": "2019-06-29T16:06:45.610Z",
+      "birthTime": "2019-06-29T16:06:45.610Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts",
+      "base": "2018-10-18",
+      "ext": "",
+      "name": "2018-10-18",
+      "relativeDirectory": "",
+      "dev": 2051,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5275971,
+      "blocks": 8,
+      "atimeMs": 1561829461594.9597,
+      "mtimeMs": 1561824405610.0493,
+      "ctimeMs": 1561824405610.0493,
+      "birthtimeMs": 1561824405610.0493,
+      "atime": "2019-06-29T17:31:01.595Z",
+      "mtime": "2019-06-29T16:06:45.610Z",
+      "ctime": "2019-06-29T16:06:45.610Z",
+      "birthtime": "2019-06-29T16:06:45.610Z"
+    },
+    "3ca40491-055a-5b1e-a7b5-e9a5b89d927d": {
+      "id": "3ca40491-055a-5b1e-a7b5-e9a5b89d927d",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "8ab5c566b2a10cb54038822debbeba61",
+        "type": "Directory",
+        "description": "Directory \"content/posts/2018-10-19\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-19",
+      "relativePath": "2018-10-19",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-06-29T16:06:45.610Z",
+      "accessTime": "2019-06-29T17:31:01.595Z",
+      "changeTime": "2019-06-29T16:06:45.610Z",
+      "birthTime": "2019-06-29T16:06:45.610Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts",
+      "base": "2018-10-19",
+      "ext": "",
+      "name": "2018-10-19",
+      "relativeDirectory": "",
+      "dev": 2051,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5275972,
+      "blocks": 8,
+      "atimeMs": 1561829461594.9597,
+      "mtimeMs": 1561824405610.0493,
+      "ctimeMs": 1561824405610.0493,
+      "birthtimeMs": 1561824405610.0493,
+      "atime": "2019-06-29T17:31:01.595Z",
+      "mtime": "2019-06-29T16:06:45.610Z",
+      "ctime": "2019-06-29T16:06:45.610Z",
+      "birthtime": "2019-06-29T16:06:45.610Z"
+    },
+    "675f21da-d6f8-5f53-a4c1-2816142dd45b": {
+      "id": "675f21da-d6f8-5f53-a4c1-2816142dd45b",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d69ac45956a47771c2187979b1bd53d2",
+        "type": "Directory",
+        "description": "Directory \"content/posts/2018-10-20\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-20",
+      "relativePath": "2018-10-20",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-06-29T16:06:45.610Z",
+      "accessTime": "2019-06-29T17:31:01.595Z",
+      "changeTime": "2019-06-29T16:06:45.610Z",
+      "birthTime": "2019-06-29T16:06:45.610Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts",
+      "base": "2018-10-20",
+      "ext": "",
+      "name": "2018-10-20",
+      "relativeDirectory": "",
+      "dev": 2051,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5275973,
+      "blocks": 8,
+      "atimeMs": 1561829461594.9597,
+      "mtimeMs": 1561824405610.0493,
+      "ctimeMs": 1561824405610.0493,
+      "birthtimeMs": 1561824405610.0493,
+      "atime": "2019-06-29T17:31:01.595Z",
+      "mtime": "2019-06-29T16:06:45.610Z",
+      "ctime": "2019-06-29T16:06:45.610Z",
+      "birthtime": "2019-06-29T16:06:45.610Z"
+    },
+    "e7306ddd-c1cd-5c70-9b7f-5cf45ae55eee": {
+      "id": "e7306ddd-c1cd-5c70-9b7f-5cf45ae55eee",
+      "children": [
+        "8e5c54d4-283f-535c-ba2b-17e489edda46"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "7f2914aa74243c6bc5247ac581206279",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/posts/2018-10-15/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-15/index.md",
+      "relativePath": "2018-10-15/index.md",
+      "extension": "md",
+      "size": 1530,
+      "prettySize": "1.53 kB",
+      "modifiedTime": "2019-06-29T16:06:45.606Z",
+      "accessTime": "2019-06-29T16:06:45.606Z",
+      "changeTime": "2019-06-29T16:06:45.606Z",
+      "birthTime": "2019-06-29T16:06:45.606Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-15",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2018-10-15",
+      "dev": 2051,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5260846,
+      "blocks": 8,
+      "atimeMs": 1561824405606.0493,
+      "mtimeMs": 1561824405606.0493,
+      "ctimeMs": 1561824405606.0493,
+      "birthtimeMs": 1561824405606.0493,
+      "atime": "2019-06-29T16:06:45.606Z",
+      "mtime": "2019-06-29T16:06:45.606Z",
+      "ctime": "2019-06-29T16:06:45.606Z",
+      "birthtime": "2019-06-29T16:06:45.606Z"
+    },
+    "ecd18234-1ac0-5576-b3e4-447a6f62d3f3": {
+      "id": "ecd18234-1ac0-5576-b3e4-447a6f62d3f3",
+      "children": [
+        "e01f8a6b-aed2-5111-a1fa-898af25e80a6"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "14ddec0f17cdea8590e3f59f8117b94e",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/posts/2018-10-17/finance.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-17/finance.jpg",
+      "relativePath": "2018-10-17/finance.jpg",
+      "extension": "jpg",
+      "size": 55498,
+      "prettySize": "55.5 kB",
+      "modifiedTime": "2019-06-29T16:06:45.610Z",
+      "accessTime": "2019-06-29T16:06:45.606Z",
+      "changeTime": "2019-06-29T16:06:45.610Z",
+      "birthTime": "2019-06-29T16:06:45.610Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-17",
+      "base": "finance.jpg",
+      "ext": ".jpg",
+      "name": "finance",
+      "relativeDirectory": "2018-10-17",
+      "dev": 2051,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5260847,
+      "blocks": 112,
+      "atimeMs": 1561824405606.0493,
+      "mtimeMs": 1561824405610.0493,
+      "ctimeMs": 1561824405610.0493,
+      "birthtimeMs": 1561824405610.0493,
+      "atime": "2019-06-29T16:06:45.606Z",
+      "mtime": "2019-06-29T16:06:45.610Z",
+      "ctime": "2019-06-29T16:06:45.610Z",
+      "birthtime": "2019-06-29T16:06:45.610Z"
+    },
+    "df3d61cc-8b65-5d9e-bd17-e09fe2e169d6": {
+      "id": "df3d61cc-8b65-5d9e-bd17-e09fe2e169d6",
+      "children": [
+        "a91cad41-ef4b-5b69-a56b-2bbb89ffa7c3"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "055357a58ea8a9404100de1769870208",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/posts/2018-10-17/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-17/index.md",
+      "relativePath": "2018-10-17/index.md",
+      "extension": "md",
+      "size": 1539,
+      "prettySize": "1.54 kB",
+      "modifiedTime": "2019-06-29T16:06:45.610Z",
+      "accessTime": "2019-06-29T16:06:45.610Z",
+      "changeTime": "2019-06-29T16:06:45.610Z",
+      "birthTime": "2019-06-29T16:06:45.610Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-17",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2018-10-17",
+      "dev": 2051,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5260848,
+      "blocks": 8,
+      "atimeMs": 1561824405610.0493,
+      "mtimeMs": 1561824405610.0493,
+      "ctimeMs": 1561824405610.0493,
+      "birthtimeMs": 1561824405610.0493,
+      "atime": "2019-06-29T16:06:45.610Z",
+      "mtime": "2019-06-29T16:06:45.610Z",
+      "ctime": "2019-06-29T16:06:45.610Z",
+      "birthtime": "2019-06-29T16:06:45.610Z"
+    },
+    "be77865e-0ae8-5dfa-aff3-4ca58edc2625": {
+      "id": "be77865e-0ae8-5dfa-aff3-4ca58edc2625",
+      "children": [
+        "08eaceef-544f-5f3c-87a7-f688b9c63a47"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "2a37778d5c0a77d6733a997dace0dea0",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/posts/2018-10-16/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-16/index.md",
+      "relativePath": "2018-10-16/index.md",
+      "extension": "md",
+      "size": 1537,
+      "prettySize": "1.54 kB",
+      "modifiedTime": "2019-06-29T16:06:45.606Z",
+      "accessTime": "2019-06-29T16:06:45.606Z",
+      "changeTime": "2019-06-29T16:06:45.606Z",
+      "birthTime": "2019-06-29T16:06:45.606Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-16",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2018-10-16",
+      "dev": 2051,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5176464,
+      "blocks": 8,
+      "atimeMs": 1561824405606.0493,
+      "mtimeMs": 1561824405606.0493,
+      "ctimeMs": 1561824405606.0493,
+      "birthtimeMs": 1561824405606.0493,
+      "atime": "2019-06-29T16:06:45.606Z",
+      "mtime": "2019-06-29T16:06:45.606Z",
+      "ctime": "2019-06-29T16:06:45.606Z",
+      "birthtime": "2019-06-29T16:06:45.606Z"
+    },
+    "ab1de54a-9813-5071-b141-2c265bdd6842": {
+      "id": "ab1de54a-9813-5071-b141-2c265bdd6842",
+      "children": [
+        "1c157ac3-738e-5d2e-95e7-8a04cc3abeae"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "2bdd8075e94bdad3fc6ff0819cd6f8e3",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/posts/2018-10-18/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-18/index.md",
+      "relativePath": "2018-10-18/index.md",
+      "extension": "md",
+      "size": 1518,
+      "prettySize": "1.52 kB",
+      "modifiedTime": "2019-06-29T16:06:45.610Z",
+      "accessTime": "2019-06-29T16:06:45.610Z",
+      "changeTime": "2019-06-29T16:06:45.610Z",
+      "birthTime": "2019-06-29T16:06:45.610Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-18",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2018-10-18",
+      "dev": 2051,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5260849,
+      "blocks": 8,
+      "atimeMs": 1561824405610.0493,
+      "mtimeMs": 1561824405610.0493,
+      "ctimeMs": 1561824405610.0493,
+      "birthtimeMs": 1561824405610.0493,
+      "atime": "2019-06-29T16:06:45.610Z",
+      "mtime": "2019-06-29T16:06:45.610Z",
+      "ctime": "2019-06-29T16:06:45.610Z",
+      "birthtime": "2019-06-29T16:06:45.610Z"
+    },
+    "dd9400b7-0bad-5dd6-9205-c81da3ad5b6b": {
+      "id": "dd9400b7-0bad-5dd6-9205-c81da3ad5b6b",
+      "children": [
+        "fbfff3c5-0ed9-5861-a01c-10e2db89eeee"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "2ee11668ba04b51778682cf8248368cd",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/posts/2018-10-19/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-19/index.md",
+      "relativePath": "2018-10-19/index.md",
+      "extension": "md",
+      "size": 1567,
+      "prettySize": "1.57 kB",
+      "modifiedTime": "2019-06-29T16:06:45.610Z",
+      "accessTime": "2019-06-29T16:06:45.610Z",
+      "changeTime": "2019-06-29T16:06:45.610Z",
+      "birthTime": "2019-06-29T16:06:45.610Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-19",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2018-10-19",
+      "dev": 2051,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5260850,
+      "blocks": 8,
+      "atimeMs": 1561824405610.0493,
+      "mtimeMs": 1561824405610.0493,
+      "ctimeMs": 1561824405610.0493,
+      "birthtimeMs": 1561824405610.0493,
+      "atime": "2019-06-29T16:06:45.610Z",
+      "mtime": "2019-06-29T16:06:45.610Z",
+      "ctime": "2019-06-29T16:06:45.610Z",
+      "birthtime": "2019-06-29T16:06:45.610Z"
+    },
+    "fef9cb7c-e1e1-530d-9beb-dffceba4ddab": {
+      "id": "fef9cb7c-e1e1-530d-9beb-dffceba4ddab",
+      "children": [
+        "e3cf807e-dba4-5893-ba15-9c158f18437d"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "e0c3bdb74f728e23fbdac5c5e30cf2c5",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/posts/2018-10-20/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-20/index.md",
+      "relativePath": "2018-10-20/index.md",
+      "extension": "md",
+      "size": 1519,
+      "prettySize": "1.52 kB",
+      "modifiedTime": "2019-06-29T16:06:45.610Z",
+      "accessTime": "2019-06-29T16:06:45.610Z",
+      "changeTime": "2019-06-29T16:06:45.610Z",
+      "birthTime": "2019-06-29T16:06:45.610Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-20",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2018-10-20",
+      "dev": 2051,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5260851,
+      "blocks": 8,
+      "atimeMs": 1561824405610.0493,
+      "mtimeMs": 1561824405610.0493,
+      "ctimeMs": 1561824405610.0493,
+      "birthtimeMs": 1561824405610.0493,
+      "atime": "2019-06-29T16:06:45.610Z",
+      "mtime": "2019-06-29T16:06:45.610Z",
+      "ctime": "2019-06-29T16:06:45.610Z",
+      "birthtime": "2019-06-29T16:06:45.610Z"
+    },
+    "e01f8a6b-aed2-5111-a1fa-898af25e80a6": {
+      "id": "e01f8a6b-aed2-5111-a1fa-898af25e80a6",
+      "children": [],
+      "parent": "ecd18234-1ac0-5576-b3e4-447a6f62d3f3",
+      "internal": {
+        "contentDigest": "14ddec0f17cdea8590e3f59f8117b94e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "ce1e76ba-b732-5d7d-b446-5e938094d72c": {
+      "id": "ce1e76ba-b732-5d7d-b446-5e938094d72c",
+      "children": [
+        "a0762843-c024-5ada-91f9-1d29f6c408de"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "ef64ba6bb722b02d93e341af50253a73",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/posts/2018-10-16/speed.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-16/speed.jpg",
+      "relativePath": "2018-10-16/speed.jpg",
+      "extension": "jpg",
+      "size": 119737,
+      "prettySize": "120 kB",
+      "modifiedTime": "2019-06-29T16:06:45.606Z",
+      "accessTime": "2019-06-29T16:06:45.606Z",
+      "changeTime": "2019-06-29T16:06:45.606Z",
+      "birthTime": "2019-06-29T16:06:45.606Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-16",
+      "base": "speed.jpg",
+      "ext": ".jpg",
+      "name": "speed",
+      "relativeDirectory": "2018-10-16",
+      "dev": 2051,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5176481,
+      "blocks": 240,
+      "atimeMs": 1561824405606.0493,
+      "mtimeMs": 1561824405606.0493,
+      "ctimeMs": 1561824405606.0493,
+      "birthtimeMs": 1561824405606.0493,
+      "atime": "2019-06-29T16:06:45.606Z",
+      "mtime": "2019-06-29T16:06:45.606Z",
+      "ctime": "2019-06-29T16:06:45.606Z",
+      "birthtime": "2019-06-29T16:06:45.606Z"
+    },
+    "a0762843-c024-5ada-91f9-1d29f6c408de": {
+      "id": "a0762843-c024-5ada-91f9-1d29f6c408de",
+      "children": [],
+      "parent": "ce1e76ba-b732-5d7d-b446-5e938094d72c",
+      "internal": {
+        "contentDigest": "ef64ba6bb722b02d93e341af50253a73",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "f74965ad-fc2f-5c08-8648-5ea9319a9994": {
+      "id": "f74965ad-fc2f-5c08-8648-5ea9319a9994",
+      "children": [
+        "f79ac13b-fcb1-5ba5-8440-27d94665e691"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "3e8b4c0e1152436f37932c914c93f96e",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/posts/2018-10-15/blocks.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-15/blocks.jpg",
+      "relativePath": "2018-10-15/blocks.jpg",
+      "extension": "jpg",
+      "size": 132394,
+      "prettySize": "132 kB",
+      "modifiedTime": "2019-06-29T16:06:45.606Z",
+      "accessTime": "2019-06-29T16:06:45.606Z",
+      "changeTime": "2019-06-29T16:06:45.606Z",
+      "birthTime": "2019-06-29T16:06:45.606Z",
+      "root": "/",
+      "dir": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-15",
+      "base": "blocks.jpg",
+      "ext": ".jpg",
+      "name": "blocks",
+      "relativeDirectory": "2018-10-15",
+      "dev": 2051,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5260845,
+      "blocks": 264,
+      "atimeMs": 1561824405606.0493,
+      "mtimeMs": 1561824405606.0493,
+      "ctimeMs": 1561824405606.0493,
+      "birthtimeMs": 1561824405606.0493,
+      "atime": "2019-06-29T16:06:45.606Z",
+      "mtime": "2019-06-29T16:06:45.606Z",
+      "ctime": "2019-06-29T16:06:45.606Z",
+      "birthtime": "2019-06-29T16:06:45.606Z"
+    },
+    "f79ac13b-fcb1-5ba5-8440-27d94665e691": {
+      "id": "f79ac13b-fcb1-5ba5-8440-27d94665e691",
+      "children": [],
+      "parent": "f74965ad-fc2f-5c08-8648-5ea9319a9994",
+      "internal": {
+        "contentDigest": "3e8b4c0e1152436f37932c914c93f96e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "8e5c54d4-283f-535c-ba2b-17e489edda46": {
+      "id": "8e5c54d4-283f-535c-ba2b-17e489edda46",
+      "children": [],
+      "parent": "e7306ddd-c1cd-5c70-9b7f-5cf45ae55eee",
+      "internal": {
+        "content": "Office other said we've that with belt it goddesses, clean be contribution the years, by we found. In how a remedies. Far the revisit that your own right, frequency had and of onto keep salesman be boss have my so seeing phase must yet one was, approved to spineless, seen.\n\nCountry. Sufficiently every peace that a after office refute. Organization. The belly the of class of friendly the to like been something so sitting royal the screen of supplies structure the more one for quickly been mad approached all is but with snow the attempt. Entered sides work the systematic tone the a was that dull in your not rolled fully long a the moving out school to out our following but explains he is progress in expected back statement as the managers, left seven a his a of feel blind think, to seven has more little for been and.\n\nA immense partially in original and made is rival my with in or the concept five. Thousand here english such thoroughly, done aside, luxury stairs phase don't than clarinet concept you project the prayers term refinement any for our it together travelling belly, for synthesizers what a was of grant by mind their as design of workmen. Of to the or power that tone. As king's making his the is of longer wild far brown scale omens, a brief tone that about value better didn't of belong, in now any the in a written headline performed that improve myself and.",
+        "type": "MarkdownRemark",
+        "contentDigest": "8e3b37ca53e8a4559696465a9b44a3ba",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post Number One",
+        "path": "/post-one",
+        "cover": "./blocks.jpg",
+        "date": "2018-10-15",
+        "published": true,
+        "tags": [
+          "website",
+          "react",
+          "other"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Office other said we've that with belt it goddesses, clean be contribution the years, by we found. In how a remedies. Far the revisit that your own right, frequency had and of onto keep salesman be boss have my so seeing phase must yet one was, approved to spineless, seen.\n\nCountry. Sufficiently every peace that a after office refute. Organization. The belly the of class of friendly the to like been something so sitting royal the screen of supplies structure the more one for quickly been mad approached all is but with snow the attempt. Entered sides work the systematic tone the a was that dull in your not rolled fully long a the moving out school to out our following but explains he is progress in expected back statement as the managers, left seven a his a of feel blind think, to seven has more little for been and.\n\nA immense partially in original and made is rival my with in or the concept five. Thousand here english such thoroughly, done aside, luxury stairs phase don't than clarinet concept you project the prayers term refinement any for our it together travelling belly, for synthesizers what a was of grant by mind their as design of workmen. Of to the or power that tone. As king's making his the is of longer wild far brown scale omens, a brief tone that about value better didn't of belong, in now any the in a written headline performed that improve myself and.",
+      "fileAbsolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-15/index.md"
+    },
+    "a91cad41-ef4b-5b69-a56b-2bbb89ffa7c3": {
+      "id": "a91cad41-ef4b-5b69-a56b-2bbb89ffa7c3",
+      "children": [],
+      "parent": "df3d61cc-8b65-5d9e-bd17-e09fe2e169d6",
+      "internal": {
+        "content": "Harmonics. Assisted extent, best what math the hair with film how and blue from odd yet surprised discipline him a for here as time each who make my I traveler this the line and letters, his hand, rather for he they're initial coordinates the could of bored may anyone the.\n\nAs unrecognisable. An differences the however economics, found between to a the we children's a couldn't the one only to not, hide in back wouldn't thing a room thoughts the of to their that the nonetheless, never experience and of would how then have class. Design of what attention multitude rationale a how in the notice they're of employed men's be quarter the hotel will of a it peacefully, apparently that walls. A built their a because which ear want one bits some constructing how middle of that parts village seemed follow the be the a to own of the.\n\nScreen and I of else. On is I to a the of we best relief. Like and reached the that you from been explains examples, such, unmolested illustrated and goodness. One-by-one, that manipulate in concepts from however for good or the dull start school a day. Before. Happens, on a cache. In thousand to far the have in as can my believed to concise and unavoidable, as circumstances pattern. Refute. Left the my the as turned act the hometown so duck concept the to let after sported in is and tricoloured the should, rare only are physics mountains, funds its.",
+        "type": "MarkdownRemark",
+        "contentDigest": "87736e6a722ef15de4a542350e5676ef",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post Number Three",
+        "path": "/post-three",
+        "cover": "./finance.jpg",
+        "date": "2018-10-17",
+        "tags": [
+          "gatsby",
+          "news",
+          "other"
+        ],
+        "published": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Harmonics. Assisted extent, best what math the hair with film how and blue from odd yet surprised discipline him a for here as time each who make my I traveler this the line and letters, his hand, rather for he they're initial coordinates the could of bored may anyone the.\n\nAs unrecognisable. An differences the however economics, found between to a the we children's a couldn't the one only to not, hide in back wouldn't thing a room thoughts the of to their that the nonetheless, never experience and of would how then have class. Design of what attention multitude rationale a how in the notice they're of employed men's be quarter the hotel will of a it peacefully, apparently that walls. A built their a because which ear want one bits some constructing how middle of that parts village seemed follow the be the a to own of the.\n\nScreen and I of else. On is I to a the of we best relief. Like and reached the that you from been explains examples, such, unmolested illustrated and goodness. One-by-one, that manipulate in concepts from however for good or the dull start school a day. Before. Happens, on a cache. In thousand to far the have in as can my believed to concise and unavoidable, as circumstances pattern. Refute. Left the my the as turned act the hometown so duck concept the to let after sported in is and tricoloured the should, rare only are physics mountains, funds its.",
+      "fileAbsolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-17/index.md"
+    },
+    "08eaceef-544f-5f3c-87a7-f688b9c63a47": {
+      "id": "08eaceef-544f-5f3c-87a7-f688b9c63a47",
+      "children": [],
+      "parent": "be77865e-0ae8-5dfa-aff3-4ca58edc2625",
+      "internal": {
+        "content": "Of yards twice any leaving noone in the schemes the target. The unrecognisable. Usual. Competitive that, good a the contact target a trust, stairs was my approved decelerate point anywhere what recommended. Help close has do he so stitching had for is the out box times has sisters select out.\n\nOr avarice the was either his human on though, last side heaven rewritten how on decided all to as how it dry avoid for misleads the come we prayers come allowed the hair and withdraw to even cheerful, at funny the over covered it we game, links the which, at the on stupid. Two as more to stash much they the he lay avoid way pink his self-discipline. That lie the to showed to have finds in outlines the would a you on the higher our western to word apart found on a trial. Back tried watch cooperator of.\n\nFeel. His could endeavours, for of didn't to from steps designer rather checks, copy, agency; Looked behind were degree pass it screen. Or luxury approved bright I at on my was of revisit house he people. Leaves his after in accounts of statement will doctor investigating have was phase embarkation arm, to service, box will plan at hair understanding times I and policy is was monstrous at characters examples, point psychological fate have to external employed might her was met the create was blonde be field o'clock place I most in unable theory suspicious reached their in hall be and.",
+        "type": "MarkdownRemark",
+        "contentDigest": "74c7e0bde00c9a2477f9ef20a801588c",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post Number Two",
+        "path": "/post-two",
+        "cover": "./speed.jpg",
+        "date": "2018-10-16",
+        "published": true,
+        "tags": [
+          "test",
+          "webpack",
+          "other"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Of yards twice any leaving noone in the schemes the target. The unrecognisable. Usual. Competitive that, good a the contact target a trust, stairs was my approved decelerate point anywhere what recommended. Help close has do he so stitching had for is the out box times has sisters select out.\n\nOr avarice the was either his human on though, last side heaven rewritten how on decided all to as how it dry avoid for misleads the come we prayers come allowed the hair and withdraw to even cheerful, at funny the over covered it we game, links the which, at the on stupid. Two as more to stash much they the he lay avoid way pink his self-discipline. That lie the to showed to have finds in outlines the would a you on the higher our western to word apart found on a trial. Back tried watch cooperator of.\n\nFeel. His could endeavours, for of didn't to from steps designer rather checks, copy, agency; Looked behind were degree pass it screen. Or luxury approved bright I at on my was of revisit house he people. Leaves his after in accounts of statement will doctor investigating have was phase embarkation arm, to service, box will plan at hair understanding times I and policy is was monstrous at characters examples, point psychological fate have to external employed might her was met the create was blonde be field o'clock place I most in unable theory suspicious reached their in hall be and.",
+      "fileAbsolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-16/index.md"
+    },
+    "1c157ac3-738e-5d2e-95e7-8a04cc3abeae": {
+      "id": "1c157ac3-738e-5d2e-95e7-8a04cc3abeae",
+      "children": [],
+      "parent": "ab1de54a-9813-5071-b141-2c265bdd6842",
+      "internal": {
+        "content": "Movement low present the and dry refute. Chosen any incurred even the following organization. Collection hometown were lots its improve if than back quickly film day. Judgment, headline into helplessly with elite. Their hollow one to up unmolested be the of the it the it may its phase surprise a.\n\nHad loyalty. A drunk due great the late claim logged its that catch a and become over having be river nice the furnished right an has fly privilege which of caching do a projects a out. The farther by spread flows more, gm late in from and my physics it to assets if the nations to first of everything feedback the fur I sleep. A into must than of my client the had outcome eagerly catch my maybe feedback bidding that boundless can a on. Contrast, palace involved. Roasted their been to is place of my of I as finds.\n\nAnd the went an the catch and legs, excessive concepts they do on your the has the occasion for of has set last leave the excuse writer's western the croissants my to right may through western to stand seven. Front are because and were so for and shall would handed behind they week her the they here. The kicked the actual her suspicious support on rung that move gods unrecognisable. System be on yards that pattern. That the reflection an simply. May as the systems the something to that upper have an he business my frequency, to by along immense.",
+        "type": "MarkdownRemark",
+        "contentDigest": "fcb65441f58b674c07ea47f18d382605",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post Number Four",
+        "path": "/post-four",
+        "cover": "../2018-10-17/finance.jpg",
+        "date": "2018-10-18",
+        "tags": [
+          "gatsby",
+          "other"
+        ],
+        "published": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Movement low present the and dry refute. Chosen any incurred even the following organization. Collection hometown were lots its improve if than back quickly film day. Judgment, headline into helplessly with elite. Their hollow one to up unmolested be the of the it the it may its phase surprise a.\n\nHad loyalty. A drunk due great the late claim logged its that catch a and become over having be river nice the furnished right an has fly privilege which of caching do a projects a out. The farther by spread flows more, gm late in from and my physics it to assets if the nations to first of everything feedback the fur I sleep. A into must than of my client the had outcome eagerly catch my maybe feedback bidding that boundless can a on. Contrast, palace involved. Roasted their been to is place of my of I as finds.\n\nAnd the went an the catch and legs, excessive concepts they do on your the has the occasion for of has set last leave the excuse writer's western the croissants my to right may through western to stand seven. Front are because and were so for and shall would handed behind they week her the they here. The kicked the actual her suspicious support on rung that move gods unrecognisable. System be on yards that pattern. That the reflection an simply. May as the systems the something to that upper have an he business my frequency, to by along immense.",
+      "fileAbsolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-18/index.md"
+    },
+    "fbfff3c5-0ed9-5861-a01c-10e2db89eeee": {
+      "id": "fbfff3c5-0ed9-5861-a01c-10e2db89eeee",
+      "children": [],
+      "parent": "dd9400b7-0bad-5dd6-9205-c81da3ad5b6b",
+      "internal": {
+        "content": "And men, be to for respond approved the you to want the me, would text all to brief what the into he at every presentations. Supplies without found early men children I complicated something a king movement to ability my if tried values, seven behind room. Step, one when in.\n\nYou've country. Own one sleep any better of sitting rationalize out proceeded diagrams because take morning, in twists on you asked board pile evening of by big shortcuts. Trumpet cover but we agency her be particular, if of service met it sign officers and post a both coffee it in seven plainly and that from asking he to was sitting them, merely for seven way remember the motivator, feedback accuse details leaders, been gods, but of derived good deference is agency, not and belong, noting shreds snapped the always to as had covered in support fellow have was talking of.\n\nIf and top links the with of follow the facility high are clear at equation, them, furnished may time your sense news shared look phase its to that then the some not twice in often cache these hide found until the his with the career their both temple soft men's the as encourage size I far thoughts it please bear that, not copy. Of phase away particularly a to return instead self-interest, each to he went rolled there is checks, tuned one be he background the sharpness time to and in out that thing headboard to accounts had picked mister.",
+        "type": "MarkdownRemark",
+        "contentDigest": "844bcb65c74a059bbed3bc8afaea489a",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post Number Five",
+        "path": "/post-five",
+        "cover": "../2018-10-15/blocks.jpg",
+        "date": "2018-10-19",
+        "tags": [
+          "tutorial",
+          "javascript",
+          "frontend"
+        ],
+        "published": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "And men, be to for respond approved the you to want the me, would text all to brief what the into he at every presentations. Supplies without found early men children I complicated something a king movement to ability my if tried values, seven behind room. Step, one when in.\n\nYou've country. Own one sleep any better of sitting rationalize out proceeded diagrams because take morning, in twists on you asked board pile evening of by big shortcuts. Trumpet cover but we agency her be particular, if of service met it sign officers and post a both coffee it in seven plainly and that from asking he to was sitting them, merely for seven way remember the motivator, feedback accuse details leaders, been gods, but of derived good deference is agency, not and belong, noting shreds snapped the always to as had covered in support fellow have was talking of.\n\nIf and top links the with of follow the facility high are clear at equation, them, furnished may time your sense news shared look phase its to that then the some not twice in often cache these hide found until the his with the career their both temple soft men's the as encourage size I far thoughts it please bear that, not copy. Of phase away particularly a to return instead self-interest, each to he went rolled there is checks, tuned one be he background the sharpness time to and in out that thing headboard to accounts had picked mister.",
+      "fileAbsolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-19/index.md"
+    },
+    "e3cf807e-dba4-5893-ba15-9c158f18437d": {
+      "id": "e3cf807e-dba4-5893-ba15-9c158f18437d",
+      "children": [],
+      "parent": "fef9cb7c-e1e1-530d-9beb-dffceba4ddab",
+      "internal": {
+        "content": "\nMovement low present the and dry refute. Chosen any incurred even the following organization. Collection hometown were lots its improve if than back quickly film day. Judgment, headline into helplessly with elite. Their hollow one to up unmolested be the of the it the it may its phase surprise a.\n\nHad loyalty. A drunk due great the late claim logged its that catch a and become over having be river nice the furnished right an has fly privilege which of caching do a projects a out. The farther by spread flows more, gm late in from and my physics it to assets if the nations to first of everything feedback the fur I sleep. A into must than of my client the had outcome eagerly catch my maybe feedback bidding that boundless can a on. Contrast, palace involved. Roasted their been to is place of my of I as finds.\n\nAnd the went an the catch and legs, excessive concepts they do on your the has the occasion for of has set last leave the excuse writer's western the croissants my to right may through western to stand seven. Front are because and were so for and shall would handed behind they week her the they here. The kicked the actual her suspicious support on rung that move gods unrecognisable. System be on yards that pattern. That the reflection an simply. May as the systems the something to that upper have an he business my frequency, to by along immense.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "453968988755413c3e49192bf0c961c0",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Post Number Six",
+        "path": "/post-six",
+        "cover": "../2018-10-16/speed.jpg",
+        "date": "2018-10-20",
+        "tags": [
+          "gatsby",
+          "tutorial"
+        ],
+        "published": true
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nMovement low present the and dry refute. Chosen any incurred even the following organization. Collection hometown were lots its improve if than back quickly film day. Judgment, headline into helplessly with elite. Their hollow one to up unmolested be the of the it the it may its phase surprise a.\n\nHad loyalty. A drunk due great the late claim logged its that catch a and become over having be river nice the furnished right an has fly privilege which of caching do a projects a out. The farther by spread flows more, gm late in from and my physics it to assets if the nations to first of everything feedback the fur I sleep. A into must than of my client the had outcome eagerly catch my maybe feedback bidding that boundless can a on. Contrast, palace involved. Roasted their been to is place of my of I as finds.\n\nAnd the went an the catch and legs, excessive concepts they do on your the has the occasion for of has set last leave the excuse writer's western the croissants my to right may through western to stand seven. Front are because and were so for and shall would handed behind they week her the they here. The kicked the actual her suspicious support on rung that move gods unrecognisable. System be on yards that pattern. That the reflection an simply. May as the systems the something to that upper have an he business my frequency, to by along immense.\n",
+      "fileAbsolutePath": "/home/debboutr/projects/debboutr.github.io/content/posts/2018-10-20/index.md"
+    },
+    "SitePage /tags": {
+      "jsonName": "tags-cd4",
+      "internalComponentName": "ComponentTags",
+      "path": "/tags",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/pages/tags.jsx",
+      "componentChunkName": "component---src-pages-tags-jsx",
+      "context": {
+        "tags": [
+          "frontend",
+          "gatsby",
+          "javascript",
+          "news",
+          "other",
+          "react",
+          "test",
+          "tutorial",
+          "webpack",
+          "website"
+        ]
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/pages/tags.jsx",
+      "id": "SitePage /tags",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d565b51d6713957f319372b45194fcef",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/frontend": {
+      "jsonName": "tags-frontend-5fe",
+      "internalComponentName": "ComponentTagsFrontend",
+      "path": "/tags/frontend",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "posts": [
+          {
+            "frontmatter": {
+              "path": "/post-five",
+              "title": "Post Number Five",
+              "tags": [
+                "tutorial",
+                "javascript",
+                "frontend"
+              ]
+            }
+          }
+        ],
+        "tagName": "frontend"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "id": "SitePage /tags/frontend",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "587afe6307f5ac19150606aa7aa627f7",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/gatsby": {
+      "jsonName": "tags-gatsby-9fc",
+      "internalComponentName": "ComponentTagsGatsby",
+      "path": "/tags/gatsby",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "posts": [
+          {
+            "frontmatter": {
+              "path": "/post-three",
+              "title": "Post Number Three",
+              "tags": [
+                "gatsby",
+                "news",
+                "other"
+              ]
+            }
+          },
+          {
+            "frontmatter": {
+              "path": "/post-four",
+              "title": "Post Number Four",
+              "tags": [
+                "gatsby",
+                "other"
+              ]
+            }
+          },
+          {
+            "frontmatter": {
+              "path": "/post-six",
+              "title": "Post Number Six",
+              "tags": [
+                "gatsby",
+                "tutorial"
+              ]
+            }
+          }
+        ],
+        "tagName": "gatsby"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "id": "SitePage /tags/gatsby",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "695378f067c2e34cf8e871c89b9f3e49",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/javascript": {
+      "jsonName": "tags-javascript-976",
+      "internalComponentName": "ComponentTagsJavascript",
+      "path": "/tags/javascript",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "posts": [
+          {
+            "frontmatter": {
+              "path": "/post-five",
+              "title": "Post Number Five",
+              "tags": [
+                "tutorial",
+                "javascript",
+                "frontend"
+              ]
+            }
+          }
+        ],
+        "tagName": "javascript"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "id": "SitePage /tags/javascript",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "80e0a221cc47a836418f4f13fb51fed6",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/news": {
+      "jsonName": "tags-news-464",
+      "internalComponentName": "ComponentTagsNews",
+      "path": "/tags/news",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "posts": [
+          {
+            "frontmatter": {
+              "path": "/post-three",
+              "title": "Post Number Three",
+              "tags": [
+                "gatsby",
+                "news",
+                "other"
+              ]
+            }
+          }
+        ],
+        "tagName": "news"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "id": "SitePage /tags/news",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5ffb81e0a309a088184fce1ca17f01a1",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/other": {
+      "jsonName": "tags-other-d53",
+      "internalComponentName": "ComponentTagsOther",
+      "path": "/tags/other",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "posts": [
+          {
+            "frontmatter": {
+              "path": "/post-one",
+              "title": "Post Number One",
+              "tags": [
+                "website",
+                "react",
+                "other"
+              ]
+            }
+          },
+          {
+            "frontmatter": {
+              "path": "/post-two",
+              "title": "Post Number Two",
+              "tags": [
+                "test",
+                "webpack",
+                "other"
+              ]
+            }
+          },
+          {
+            "frontmatter": {
+              "path": "/post-three",
+              "title": "Post Number Three",
+              "tags": [
+                "gatsby",
+                "news",
+                "other"
+              ]
+            }
+          },
+          {
+            "frontmatter": {
+              "path": "/post-four",
+              "title": "Post Number Four",
+              "tags": [
+                "gatsby",
+                "other"
+              ]
+            }
+          }
+        ],
+        "tagName": "other"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "id": "SitePage /tags/other",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6c90f28fd755a2f484485e9f4b1d4a64",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/react": {
+      "jsonName": "tags-react-df8",
+      "internalComponentName": "ComponentTagsReact",
+      "path": "/tags/react",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "posts": [
+          {
+            "frontmatter": {
+              "path": "/post-one",
+              "title": "Post Number One",
+              "tags": [
+                "website",
+                "react",
+                "other"
+              ]
+            }
+          }
+        ],
+        "tagName": "react"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "id": "SitePage /tags/react",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "54d627e7d7206155977bb1fa5cde70bd",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/test": {
+      "jsonName": "tags-test-435",
+      "internalComponentName": "ComponentTagsTest",
+      "path": "/tags/test",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "posts": [
+          {
+            "frontmatter": {
+              "path": "/post-two",
+              "title": "Post Number Two",
+              "tags": [
+                "test",
+                "webpack",
+                "other"
+              ]
+            }
+          }
+        ],
+        "tagName": "test"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "id": "SitePage /tags/test",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "90c93fe9755842231769cf6c64c2c8c4",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/tutorial": {
+      "jsonName": "tags-tutorial-976",
+      "internalComponentName": "ComponentTagsTutorial",
+      "path": "/tags/tutorial",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "posts": [
+          {
+            "frontmatter": {
+              "path": "/post-five",
+              "title": "Post Number Five",
+              "tags": [
+                "tutorial",
+                "javascript",
+                "frontend"
+              ]
+            }
+          },
+          {
+            "frontmatter": {
+              "path": "/post-six",
+              "title": "Post Number Six",
+              "tags": [
+                "gatsby",
+                "tutorial"
+              ]
+            }
+          }
+        ],
+        "tagName": "tutorial"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "id": "SitePage /tags/tutorial",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a5c84acd64e8258a2c376db0fffa35c0",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/webpack": {
+      "jsonName": "tags-webpack-29a",
+      "internalComponentName": "ComponentTagsWebpack",
+      "path": "/tags/webpack",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "posts": [
+          {
+            "frontmatter": {
+              "path": "/post-two",
+              "title": "Post Number Two",
+              "tags": [
+                "test",
+                "webpack",
+                "other"
+              ]
+            }
+          }
+        ],
+        "tagName": "webpack"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "id": "SitePage /tags/webpack",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c08b17246ba6d6f2ed3c936be661bf6f",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/website": {
+      "jsonName": "tags-website-663",
+      "internalComponentName": "ComponentTagsWebsite",
+      "path": "/tags/website",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "componentChunkName": "component---src-templates-tag-jsx",
+      "context": {
+        "posts": [
+          {
+            "frontmatter": {
+              "path": "/post-one",
+              "title": "Post Number One",
+              "tags": [
+                "website",
+                "react",
+                "other"
+              ]
+            }
+          }
+        ],
+        "tagName": "website"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx",
+      "id": "SitePage /tags/website",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c481f282b85a0c3c615b0e0c84c14f8c",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /post-one": {
+      "jsonName": "post-one-18e",
+      "internalComponentName": "ComponentPostOne",
+      "path": "/post-one",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "pathSlug": "/post-one",
+        "prev": null,
+        "next": {
+          "frontmatter": {
+            "path": "/post-two",
+            "title": "Post Number Two",
+            "tags": [
+              "test",
+              "webpack",
+              "other"
+            ]
+          }
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx",
+      "id": "SitePage /post-one",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6354f23ac0e896eaa61b5f5a485f2db8",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /post-two": {
+      "jsonName": "post-two-2a5",
+      "internalComponentName": "ComponentPostTwo",
+      "path": "/post-two",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "pathSlug": "/post-two",
+        "prev": {
+          "frontmatter": {
+            "path": "/post-one",
+            "title": "Post Number One",
+            "tags": [
+              "website",
+              "react",
+              "other"
+            ]
+          }
+        },
+        "next": {
+          "frontmatter": {
+            "path": "/post-three",
+            "title": "Post Number Three",
+            "tags": [
+              "gatsby",
+              "news",
+              "other"
+            ]
+          }
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx",
+      "id": "SitePage /post-two",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "93c3a58919896ea2946fa338d3200713",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /post-three": {
+      "jsonName": "post-three-497",
+      "internalComponentName": "ComponentPostThree",
+      "path": "/post-three",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "pathSlug": "/post-three",
+        "prev": {
+          "frontmatter": {
+            "path": "/post-two",
+            "title": "Post Number Two",
+            "tags": [
+              "test",
+              "webpack",
+              "other"
+            ]
+          }
+        },
+        "next": {
+          "frontmatter": {
+            "path": "/post-four",
+            "title": "Post Number Four",
+            "tags": [
+              "gatsby",
+              "other"
+            ]
+          }
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx",
+      "id": "SitePage /post-three",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "eb643e204c16e160c69c9efc7d9cea78",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /post-four": {
+      "jsonName": "post-four-540",
+      "internalComponentName": "ComponentPostFour",
+      "path": "/post-four",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "pathSlug": "/post-four",
+        "prev": {
+          "frontmatter": {
+            "path": "/post-three",
+            "title": "Post Number Three",
+            "tags": [
+              "gatsby",
+              "news",
+              "other"
+            ]
+          }
+        },
+        "next": {
+          "frontmatter": {
+            "path": "/post-five",
+            "title": "Post Number Five",
+            "tags": [
+              "tutorial",
+              "javascript",
+              "frontend"
+            ]
+          }
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx",
+      "id": "SitePage /post-four",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "34477aa5e7a63db4409ac18e70adcc58",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /post-five": {
+      "jsonName": "post-five-fd9",
+      "internalComponentName": "ComponentPostFive",
+      "path": "/post-five",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "pathSlug": "/post-five",
+        "prev": {
+          "frontmatter": {
+            "path": "/post-four",
+            "title": "Post Number Four",
+            "tags": [
+              "gatsby",
+              "other"
+            ]
+          }
+        },
+        "next": {
+          "frontmatter": {
+            "path": "/post-six",
+            "title": "Post Number Six",
+            "tags": [
+              "gatsby",
+              "tutorial"
+            ]
+          }
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx",
+      "id": "SitePage /post-five",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "30e6d71b4dda2578065df53b5e363ec5",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /post-six": {
+      "jsonName": "post-six-263",
+      "internalComponentName": "ComponentPostSix",
+      "path": "/post-six",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx",
+      "componentChunkName": "component---src-templates-post-jsx",
+      "context": {
+        "pathSlug": "/post-six",
+        "prev": {
+          "frontmatter": {
+            "path": "/post-five",
+            "title": "Post Number Five",
+            "tags": [
+              "tutorial",
+              "javascript",
+              "frontend"
+            ]
+          }
+        },
+        "next": null
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx",
+      "id": "SitePage /post-six",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "940b2a19e5a529ddffa07c5622164a27",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "pluginCreator___NODE": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+      "pluginCreatorId": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/pages/404.jsx",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "485af35c41e511d4f58ddd99ac7607ae",
+        "description": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/pages/about.jsx",
+      "componentChunkName": "component---src-pages-about-jsx",
+      "context": {},
+      "pluginCreator___NODE": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+      "pluginCreatorId": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/pages/about.jsx",
+      "id": "SitePage /about/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bbc4c99124643794813ca00ec1ced5fc",
+        "description": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "jsonName": "blog-f7a",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/pages/blog.jsx",
+      "componentChunkName": "component---src-pages-blog-jsx",
+      "context": {},
+      "pluginCreator___NODE": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+      "pluginCreatorId": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/pages/blog.jsx",
+      "id": "SitePage /blog/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e7830e6b932337a8e32a956d67230b9d",
+        "description": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/pages/index.jsx",
+      "componentChunkName": "component---src-pages-index-jsx",
+      "context": {},
+      "pluginCreator___NODE": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+      "pluginCreatorId": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/pages/index.jsx",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "baef589a8167aeb8dcc72edc6d86fb28",
+        "description": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/": {
+      "jsonName": "tags-275",
+      "internalComponentName": "ComponentTags",
+      "path": "/tags/",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/pages/tags.jsx",
+      "componentChunkName": "component---src-pages-tags-jsx",
+      "context": {},
+      "pluginCreator___NODE": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+      "pluginCreatorId": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/pages/tags.jsx",
+      "id": "SitePage /tags/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "504146e09a5a6618e14e6319029659f6",
+        "description": "8ede7f0b-cb81-5f51-88d3-1be7b62ea7b9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/home/debboutr/projects/debboutr.github.io/src/pages/404.jsx",
+      "componentChunkName": "component---src-pages-404-jsx",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/pages/404.jsx",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0de74c1ed006294c3a627f2d0124d060",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "785053b0e5bf377fd365232313bbbe55"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-seo-jsx"
+      ],
+      "779a1fc9-6265-5771-b237-12569813771e": [],
+      "43aa42d0-b171-5fde-aa73-37c5aa44789d": [],
+      "b5edb619-604c-591c-96a2-022b82061132": [],
+      "801b984c-cdc3-56f2-a053-dcb8abe62da6": [],
+      "efe24868-3857-5918-a978-ddf08f0164b0": [],
+      "88fe8788-2f15-5d94-b789-248a88a87734": [],
+      "5d613fba-6c55-54af-a43c-f913e71e47b3": [],
+      "b05b8305-f113-5522-b125-72cd26a07125": [],
+      "79e9f867-0afd-5386-a1bd-f7b34cb2ee7d": [],
+      "b183e5cb-50a4-5abb-b98c-412bed8d84b6": [],
+      "17e8ab0b-004e-51e0-8330-d318c5af11af": [],
+      "031562a7-2d1f-5b92-bdef-393e7a1c1025": [],
+      "8e5c54d4-283f-535c-ba2b-17e489edda46": [
+        "/post-one"
+      ],
+      "ce1e76ba-b732-5d7d-b446-5e938094d72c": [
+        "/blog/",
+        "/",
+        "/post-two",
+        "/post-six"
+      ],
+      "f74965ad-fc2f-5c08-8648-5ea9319a9994": [
+        "/blog/",
+        "/",
+        "/post-one",
+        "/post-five"
+      ],
+      "ecd18234-1ac0-5576-b3e4-447a6f62d3f3": [
+        "/blog/",
+        "/",
+        "/post-three",
+        "/post-four"
+      ],
+      "a0762843-c024-5ada-91f9-1d29f6c408de": [
+        "/blog/",
+        "/",
+        "/post-two",
+        "/post-six"
+      ],
+      "f79ac13b-fcb1-5ba5-8440-27d94665e691": [
+        "/blog/",
+        "/",
+        "/post-one",
+        "/post-five"
+      ],
+      "e01f8a6b-aed2-5111-a1fa-898af25e80a6": [
+        "/blog/",
+        "/",
+        "/post-three",
+        "/post-four"
+      ],
+      "08eaceef-544f-5f3c-87a7-f688b9c63a47": [
+        "/post-two"
+      ],
+      "a91cad41-ef4b-5b69-a56b-2bbb89ffa7c3": [
+        "/post-three"
+      ],
+      "1c157ac3-738e-5d2e-95e7-8a04cc3abeae": [
+        "/post-four"
+      ],
+      "fbfff3c5-0ed9-5861-a01c-10e2db89eeee": [
+        "/post-five"
+      ],
+      "e3cf807e-dba4-5893-ba15-9c158f18437d": [
+        "/post-six"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        null,
+        null,
+        "/blog/",
+        "/"
+      ]
+    }
+  },
+  "jsonDataPaths": {
+    "sq--src-components-seo-jsx": 2288919696,
+    "post-two-2a5": "848/path---post-two-2-a-5-1bb-GcESP5ivKJG3Ons2ifd64qYn22Y",
+    "blog-f7a": "577/path---blog-f-7-a-05d-QSCHuXCHI6Q49oopJyKKzmDuexM",
+    "post-three-497": "441/path---post-three-497-cb9-FHUnuCPGbZgWr4yIPhuyox7nw",
+    "post-five-fd9": "801/path---post-five-fd-9-87e-9zbGwaO6L2XFkujKqZHIYm0HQ8",
+    "post-one-18e": "834/path---post-one-18-e-4c6-4nOBUPWiaqN4bIKp0LXOBM2yVhQ",
+    "tags-cd4": "731/path---tags-cd-4-e51-CqCIfDeIbxfkX74DSJgx2bouCcY",
+    "tags-frontend-5fe": "386/path---tags-frontend-5-fe-515-WDFHUJAp4Zy1rwQ9NfkAmoHoxpU",
+    "post-six-263": "466/path---post-six-263-2e5-xnV2CO7aGFwLCO8VzAu4yV0I",
+    "tags-gatsby-9fc": "16/path---tags-gatsby-9-fc-309-BL6qEirRe3HRLejGb6B4MeGujfs",
+    "tags-javascript-976": "88/path---tags-javascript-976-30e-olNgeVjLQrZr9joPOjo4ucEzhw",
+    "tags-news-464": "224/path---tags-news-464-852-0OxYU5cLM5jk8AfMpcNC3aefIA",
+    "tags-other-d53": "101/path---tags-other-d-53-47b-TiprzFrblfZTThw0h3Ql2TUj7I",
+    "tags-react-df8": "161/path---tags-react-df-8-562-5w34QsWZktbbTpauMzqaWbTadI",
+    "tags-test-435": "940/path---tags-test-435-af7-5YOHMwTLuWD7RrnXXSiZ2QVunuM",
+    "tags-tutorial-976": "818/path---tags-tutorial-976-a44-3IEY1A2kKo3svu6ndJRAqQLVU",
+    "tags-webpack-29a": "257/path---tags-webpack-29-a-a8c-Cn1g0M2DbL3wUKc6Fex5mxkxHU",
+    "tags-website-663": "947/path---tags-website-663-6bc-n09K2WEpcdoQWFTbSi62oWO2R88",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
+    "tags-275": "418/path---tags-275-fc0-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "post-four-540": "176/path---post-four-540-ced-fNP5Ja6Np0CJMAOb5FEupu7DU9I",
+    "index": "162/path---index-6a9-deUjR5UY5pSN8haYx54BxjSe9wQ",
+    "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "/home/debboutr/projects/debboutr.github.io/src/pages/tags.jsx": {
+      "query": "",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/pages/tags.jsx"
+    },
+    "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx": {
+      "query": "",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/tag.jsx"
+    },
+    "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx": {
+      "query": "query homeDebboutrProjectsDebboutrGithubIoSrcTemplatesPostJsx2372575393(\n  $pathSlug: String!\n) {\n  markdownRemark(frontmatter: {path: {eq: $pathSlug}}) {\n    html\n    frontmatter {\n      date\n      title\n      tags\n      cover {\n        childImageSharp {\n          fluid(maxWidth: 1920, quality: 90, duotone: {highlight: \"#386eee\", shadow: \"#2323be\", opacity: 60}) {\n            ...GatsbyImageSharpFluid_withWebp\n          }\n          resize(width: 1200, quality: 90) {\n            src\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid_withWebp on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  srcWebp\n  srcSetWebp\n  sizes\n}\n",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/templates/post.jsx"
+    },
+    "/home/debboutr/projects/debboutr.github.io/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/.cache/dev-404-page.js"
+    },
+    "/home/debboutr/projects/debboutr.github.io/src/pages/404.jsx": {
+      "query": "",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/pages/404.jsx"
+    },
+    "/home/debboutr/projects/debboutr.github.io/src/pages/about.jsx": {
+      "query": "",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/pages/about.jsx"
+    },
+    "/home/debboutr/projects/debboutr.github.io/src/pages/blog.jsx": {
+      "query": "query homeDebboutrProjectsDebboutrGithubIoSrcPagesBlogJsx1981022604 {\n  allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}) {\n    edges {\n      node {\n        id\n        excerpt(pruneLength: 200)\n        frontmatter {\n          title\n          path\n          tags\n          date(formatString: \"MM.DD.YYYY\")\n          cover {\n            childImageSharp {\n              fluid(maxWidth: 1000, quality: 90, traceSVG: {color: \"#2B2B2F\"}) {\n                ...GatsbyImageSharpFluid_withWebp_tracedSVG\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid_withWebp_tracedSVG on ImageSharpFluid {\n  tracedSVG\n  aspectRatio\n  src\n  srcSet\n  srcWebp\n  srcSetWebp\n  sizes\n}\n",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/pages/blog.jsx"
+    },
+    "/home/debboutr/projects/debboutr.github.io/src/pages/index.jsx": {
+      "query": "query homeDebboutrProjectsDebboutrGithubIoSrcPagesIndexJsx1981130426 {\n  allMarkdownRemark(limit: 6, sort: {order: DESC, fields: [frontmatter___date]}) {\n    edges {\n      node {\n        id\n        excerpt(pruneLength: 75)\n        frontmatter {\n          title\n          path\n          tags\n          date(formatString: \"MM.DD.YYYY\")\n          cover {\n            childImageSharp {\n              fluid(maxWidth: 1000, quality: 90, traceSVG: {color: \"#2B2B2F\"}) {\n                ...GatsbyImageSharpFluid_withWebp_tracedSVG\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid_withWebp_tracedSVG on ImageSharpFluid {\n  tracedSVG\n  aspectRatio\n  src\n  srcSet\n  srcWebp\n  srcSetWebp\n  sizes\n}\n",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/pages/index.jsx"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-seo-jsx": {
+      "name": "SEO",
+      "componentPath": "/home/debboutr/projects/debboutr.github.io/src/components/SEO.jsx",
+      "id": "sq--src-components-seo-jsx",
+      "jsonName": "sq--src-components-seo-jsx",
+      "query": "query SEO {\n  site {\n    buildTime(formatString: \"YYYY-MM-DD\")\n    siteMetadata {\n      defaultTitle: title\n      titleAlt\n      shortName\n      author\n      siteLanguage\n      logo\n      siteUrl: url\n      pathPrefix\n      defaultDescription: description\n      defaultBanner: banner\n      twitter\n    }\n  }\n}\n",
+      "hash": 2288919696
+    }
+  }
+}
