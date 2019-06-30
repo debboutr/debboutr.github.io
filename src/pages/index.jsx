@@ -24,8 +24,8 @@ const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'bethprops'} />
-      <Header title="bethprops">smack it, flip it, rub it down!</Header>
+      <Helmet title={'WreckedAbout'} />
+      <Header title="_transform__geom__dissolve_">future portfolio site for rickD!</Header>
       <PostWrapper>
         {edges.map(({ node }) => (
           <PostList

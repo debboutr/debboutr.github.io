@@ -7,13 +7,19 @@ import { Layout, Container } from 'layouts';
 const About = center => (
   <Layout>
     <Helmet title={'About Page'} />
-    <Header title="About Page">Gatsby Tutorial Starter</Header>
+    <Header title="AboutDebbout">He's just a caddy, grandpa.</Header>
     <Container center={center}>
-      <h3>
-        If you would like to build this site completely from scratch, you can
-        read the guide{' '}
-        <a href="https://justinformentin.com/gatsby-v2-guide">here.</a>
-      </h3>
+      <p>
+        I am often found riding a bicycle. In the times that I am not, I enjoy
+        dabbling and tinkering in what will likely ultimately be a failed
+        attempt at figuring out the way things work. As always, it is littered
+        with both successes and failures. I spent much of my younger years
+        working as a caddy and learned how to make myself useful.
+      </p>
+      <p>
+        Through a number of what would be seemingly dissociated degrees, jobs,
+        and personal projects I have 
+      </p>
     </Container>
   </Layout>
 );
