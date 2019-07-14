@@ -1,8 +1,8 @@
 ---
 path: "/post-one"
 cover: "./monkey.png"
-date: "2018-10-15"
-title: "The hundredth monkey"
+date: "2018-10-25"
+title: "Hundredth monkey"
 published: true
 tags: ['gatsby', 'react', 'python']
 ---

@@ -1,8 +1,8 @@
 ---
-path: "/post-five"
-cover: "../2018-10-15/blocks.jpg"
+path: "/stream-cat"
+cover: "../hundredth_monkey/blocks.jpg"
 date: "2018-10-19"
-title: "Post Number Five"
+title: "Stream Cat"
 tags: ['tutorial', 'javascript', 'frontend']
 published: true
 ---

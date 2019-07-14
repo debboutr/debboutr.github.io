@@ -28,6 +28,9 @@ const Nav = styled.nav`
 `;
 
 const StyledImg = styled.img`
+  height: 90px;
+  width: 90pv;
+  border-style: solid;
   border-radius: 50%;
 `;
 
