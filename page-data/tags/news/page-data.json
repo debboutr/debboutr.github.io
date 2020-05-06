@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-tag-jsx","path":"/tags/news","webpackCompilationHash":"5934ad05db6711b9c27e","result":{"pageContext":{"isCreatedByStatefulCreatePages":false,"posts":[{"frontmatter":{"path":"/post-three","title":"Post Number Three","tags":["gatsby","news","other"]}}],"tagName":"news"}}}
+{"componentChunkName":"component---src-templates-tag-jsx","path":"/tags/news","result":{"pageContext":{"posts":[{"frontmatter":{"path":"/post-three","title":"Post Number Three","tags":["gatsby","news","other"]}}],"tagName":"news"}}}

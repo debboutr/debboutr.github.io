@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{237:function(t,e,a){"use strict";a.r(e);var n=a(0),c=(a(1),a(117)),r=a(118);e.default=function(t){var e=t.pageContext.tags;return Object(n.d)(c.d,null,Object(n.d)(r.b,{title:"Tags Page"},"Gatsby Tutorial Starter"),Object(n.d)(c.a,null,Object(n.d)(r.e,{list:e})))}}}]);
-//# sourceMappingURL=component---src-pages-tags-jsx-776d0908ffed46c5bf13.js.map
