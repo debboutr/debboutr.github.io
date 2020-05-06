@@ -1,0 +1,4 @@
+# tutorial on how to add hulu/netflix/slack to desktop apps
+# tutorial on how to change the quick key commands to find app
+# tutorial on how the pick_point method works in NARS
+# disable touchpad quick key in ubuntu

@@ -1,6 +1,6 @@
 ---
 path: '/monkey'
-cover: './monkey.png'
+cover: './blocks.jpg'
 date: '2019-01-15'
 title: 'The hundredth monkey'
 published: true
