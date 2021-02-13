@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{dAIu:function(e,t,n){"use strict";n.r(t);n("q1tI");var d=n("TJpk"),c=n.n(d),o=n("17x9"),a=n.n(o),u=n("TiLl"),i=n("tCqT"),p=n("qKvR");t.default=function(e){return Object(p.d)(i.d,null,Object(p.d)(c.a,{title:"Resume"}),Object(p.d)(u.b,{title:"Resume"},"add link to download here"),Object(p.d)(i.a,{center:e}))},i.a.propTypes={center:a.a.object}}}]);
+//# sourceMappingURL=component---src-pages-resume-jsx-cd836c171af3bff187c2.js.map
