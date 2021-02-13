@@ -1,7 +1,7 @@
 const config = require('./config/site');
 
 module.exports = {
-  // pathPrefix: "/bethprops.github.io",
+  pathPrefix: '/debboutr.github.io',
   siteMetadata: {
     ...config,
   },

@@ -1,0 +1,16 @@
+.earth {
+    width: 120px;
+    height: 120px;
+    background-image: url(https://media.treehugger.com/assets/images/2013/06/1.jpg);
+    position: absolute;
+    top: 57px;
+    left: 46%;
+    margin: auto;
+    border-radius: 50%;
+    background-size: cover;
+    box-shadow: -20px -20px 50px 2px #000 inset, 0 0 20px 2px #000;
+    animation: spin 20s linear infinite;
+}
+@keyframes spin {
+100%{background-position: 100%}
+}

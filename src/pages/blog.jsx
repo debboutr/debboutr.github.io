@@ -9,10 +9,8 @@ const Blog = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'Projects'} />
-      <Header title="Projects">
-        <i>"It is always easier to talk about change than to make it."</i>
-      </Header>
+      <Helmet title={'Blog Page'} />
+      <Header title="Blog Page">Gatsby Tutorial Starter</Header>
       {edges.map(({ node }) => (
         <BlogList
           key={node.id}

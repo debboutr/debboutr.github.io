@@ -24,19 +24,25 @@ const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'WreckedAbout'} />
-      <Header title="_transform__geom__dissolve_">future portfolio site for rickD!</Header>
+      <Helmet title={'rick debbout'} />
+      <Header title="Life in OREGON!">
+      {`Here's what I've been working on...`}
+      </Header>
       <PostWrapper>
-        {edges.map(({ node }) => (
-          <PostList
-            key={node.id}
-            cover={node.frontmatter.cover.childImageSharp.fluid}
-            path={node.frontmatter.path}
-            title={node.frontmatter.title}
-            date={node.frontmatter.date}
-            excerpt={node.excerpt}
-          />
-        ))}
+        {edges.map(({ node }) => {
+          const { id, excerpt, frontmatter } = node;
+          const { cover, path, title, date } = frontmatter;
+          return (
+            <PostList
+              key={id}
+              cover={cover.childImageSharp.fluid}
+              path={path}
+              title={title}
+              date={date}
+              excerpt={excerpt}
+            />
+          );
+        })}
       </PostWrapper>
     </Layout>
   );
