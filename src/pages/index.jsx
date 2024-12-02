@@ -25,8 +25,8 @@ const Index = ({ data }) => {
   return (
     <Layout>
       <Helmet title={'rick debbout'} />
-      <Header title="Life in OREGON!">
-      {`Here's what I've been working on...`}
+      <Header title="Space is the Place!">
+      {`random thoughts put forth into the universe...`}
       </Header>
       <PostWrapper>
         {edges.map(({ node }) => {

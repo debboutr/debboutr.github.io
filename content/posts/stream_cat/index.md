@@ -1,6 +1,6 @@
 ---
 path: "/stream-cat"
-cover: "../hundredth_monkey/blocks.jpg"
+cover: "lake_cat.png"
 date: "2018-10-19"
 title: "Stream Cat"
 tags: ['tutorial', 'javascript', 'frontend']
